@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\BiBEAT DAQ\BiBEAT DAQ\bin\Release\BiBEAT DAQ.exe.config
+C:\Users\User\source\repos\BiBEAT DAQ\BiBEAT DAQ\bin\Release\BiBEAT DAQ.exe
+C:\Users\User\source\repos\BiBEAT DAQ\BiBEAT DAQ\bin\Release\BiBEAT DAQ.pdb
+C:\Users\User\source\repos\BiBEAT DAQ\BiBEAT DAQ\bin\Release\OxyPlot.dll
+C:\Users\User\source\repos\BiBEAT DAQ\BiBEAT DAQ\bin\Release\OxyPlot.WindowsForms.dll
+C:\Users\User\source\repos\BiBEAT DAQ\BiBEAT DAQ\bin\Release\OxyPlot.xml
+C:\Users\User\source\repos\BiBEAT DAQ\BiBEAT DAQ\bin\Release\OxyPlot.WindowsForms.xml
+C:\Users\User\source\repos\BiBEAT DAQ\BiBEAT DAQ\obj\Release\BiBEAT_DAQ.DaqUI.resources
+C:\Users\User\source\repos\BiBEAT DAQ\BiBEAT DAQ\obj\Release\BiBEAT_DAQ.Properties.Resources.resources
+C:\Users\User\source\repos\BiBEAT DAQ\BiBEAT DAQ\obj\Release\BiBEAT DAQ.csproj.GenerateResource.cache
+C:\Users\User\source\repos\BiBEAT DAQ\BiBEAT DAQ\obj\Release\BiBEAT DAQ.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\BiBEAT DAQ\BiBEAT DAQ\obj\Release\BiBEAT DAQ.csproj.CopyComplete
+C:\Users\User\source\repos\BiBEAT DAQ\BiBEAT DAQ\obj\Release\BiBEAT DAQ.exe
+C:\Users\User\source\repos\BiBEAT DAQ\BiBEAT DAQ\obj\Release\BiBEAT DAQ.pdb
+C:\Users\User\source\repos\BiBEAT DAQ\BiBEAT DAQ\obj\Release\BiBEAT DAQ.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\BiBEAT DAQ\BiBEAT DAQ\obj\Release\BiBEAT_DAQ.DeviceConfigUI.resources
